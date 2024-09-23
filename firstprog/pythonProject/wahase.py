@@ -1,3 +1,0 @@
-import yaha
-
-yaha.welcome()
